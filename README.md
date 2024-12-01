@@ -1,1 +1,1 @@
-# -Multi-Layer-Perceptron-from-Scratch
+# Multi-Layer-Perceptron-from-Scratch
